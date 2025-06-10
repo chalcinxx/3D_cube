@@ -1,8 +1,0 @@
-[
-{
-  "directory": "/home/chalcinx/Documents/CPP/3D_cube/build",
-  "command": "clang++   -std=gnu++20 -o CMakeFiles/release.dir/src/main.cpp.o -c /home/chalcinx/Documents/CPP/3D_cube/src/main.cpp",
-  "file": "/home/chalcinx/Documents/CPP/3D_cube/src/main.cpp",
-  "output": "CMakeFiles/release.dir/src/main.cpp.o"
-}
-]
