@@ -1,0 +1,3 @@
+/home/chalcinx/Documents/CPP/3D_cube/build/CMakeFiles/release.dir
+/home/chalcinx/Documents/CPP/3D_cube/build/CMakeFiles/edit_cache.dir
+/home/chalcinx/Documents/CPP/3D_cube/build/CMakeFiles/rebuild_cache.dir
